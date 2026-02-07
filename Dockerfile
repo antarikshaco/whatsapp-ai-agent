@@ -1,4 +1,3 @@
-
 FROM flowiseai/flowise:latest
 
 ENV PORT=8080
